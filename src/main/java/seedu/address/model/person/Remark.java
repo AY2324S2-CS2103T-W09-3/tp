@@ -2,6 +2,9 @@ package seedu.address.model.person;
 
 import static java.util.Objects.requireNonNull;
 
+/**
+ * Represents a Remark associated with a Person in the address book.
+ */
 public class Remark {
     public final String value;
 
@@ -14,10 +17,6 @@ public class Remark {
         requireNonNull(remark);
         value = remark;
     }
-
-    /**
-     * Returns true if a given string is a valid email.
-     */
 
     @Override
     public String toString() {
