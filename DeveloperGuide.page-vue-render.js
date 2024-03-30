@@ -155,7 +155,7 @@ with(this){return _c('h4',{attrs:{"id":"design-considerations"}},[_v("Design con
 with(this){return _c('p',[_c('strong',[_v("Aspect: How help window is presented:")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_c('strong',[_v("Alternative 1 (current choice):")]),_v(" The program website address and important informations on top of a command summary table.")]),_v(" "),_c('ul',[_c('li',[_v("Pros: Useful and convenient summary for easy reference.")]),_v(" "),_c('li',[_v("Cons: May need to modify evrytime a new type of command is added.")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Alternative 2:")]),_v(" Only the program website address.")]),_v(" "),_c('ul',[_c('li',[_v("Pros: Easy to implement and no change needed in the future.")]),_v(" "),_c('li',[_v("Cons: Not very useful and convenient as a quick reference.")])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_c('strong',[_v("Alternative 1 (current choice):")]),_v(" The program website address and important informations on top of a command summary table.")]),_v(" "),_c('ul',[_c('li',[_v("Pros: Useful and convenient summary for easy reference.")]),_v(" "),_c('li',[_v("Cons: May need to modify every time a new type of command is added.")])])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Alternative 2:")]),_v(" Only the program website address.")]),_v(" "),_c('ul',[_c('li',[_v("Pros: Easy to implement and no change needed in the future.")]),_v(" "),_c('li',[_v("Cons: Not very useful and convenient as a quick reference.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"filter-command"}},[_v("Filter command"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#filter-command","onclick":"event.stopPropagation()"}})])}
@@ -440,6 +440,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Fri, 29 Mar 2024, 17:32:50 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sat, 30 Mar 2024, 11:12:31 GMT+8]")])])])}
 }];
   
