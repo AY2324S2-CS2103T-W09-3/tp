@@ -120,6 +120,7 @@
         "finding-persons-by-name-find": "Finding persons by name: find",
         "filtering-persons-by-tag-filter": "Filtering persons by tag: filter",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "archive": "Archive",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
