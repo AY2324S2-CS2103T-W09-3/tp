@@ -446,6 +446,6 @@ with(this){return _c('h2',{attrs:{"id":"appendix-planned-enhancement"}},[_c('str
 with(this){return _c('ol',[_c('li',[_c('strong',[_v("Use an ID field as the unique identifier")]),_v(": The current unique identifier is the name of the person preventing addition of duplicate names. This is too restrictive as persons with the same name are quite common in reality.\nThe user may also want to only record the first or last name which may cause more duplicate names. We plan to use the person's ID field as an unique identifier, which will allow duplicate names to be recorded.")]),_v(" "),_c('li')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Wed, 10 Apr 2024, 23:12:25 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Thu, 11 Apr 2024, 1:01:42 GMT+8]")])])])}
 }];
   
